@@ -561,3 +561,7 @@ fieldset[disabled] .btn-success.active {
     background-repeat:   no-repeat;
     background-size:     cover;
 }
+#bitmoji{
+  border: transparent;
+  border-radius: 20%
+}
