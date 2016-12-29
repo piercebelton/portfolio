@@ -565,3 +565,13 @@ fieldset[disabled] .btn-success.active {
   border: transparent;
   border-radius: 20%
 }
+.project-icon{
+  width: relative;
+  height: 250px;
+}
+#skills-title{
+  color: #2C3E50;
+}
+hr#special-star:after{
+  background-color: #18BC9C;
+}
