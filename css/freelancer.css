@@ -585,19 +585,31 @@ hr#special-star3:after{
   background-color: #18BC9C;
 }
 .form-control::-webkit-input-placeholder{
-  color: #2C3E50
+  color: #2C3E50;
 }
 .form-control:-moz-placeholder{
-  color: #2C3E50
+  color: #2C3E50;
 }
 .form-control::-moz-placeholder{
-  color: #2C3E50
+  color: #2C3E50;
 }
 .form-control:-ms-input-placeholder{
-  color: #2C3E50
+  color: #2C3E50;
 }
 #submit-button{
   background-color: #18BC9C;
   border: 2px solid #2C3E50;
+  color: #2C3E50;
+}
+label.contact-filler{
+  color: #2C3E50;
+}
+div.row.control-group.warning{
+  color: #2C3E50;
+}
+div.row.control-group.warning::after{
+  color: #2C3E50;
+}
+.not-white{
   color: #2C3E50;
 }
